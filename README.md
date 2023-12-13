@@ -1,5 +1,5 @@
 ## 🦊 About me
-I am a 16-years old Python developer based in Saint-Petersburg. My primary focus is on Python programming and I have experience with various libraries and frameworks. 
+I am a 17-years old Python developer based in Saint-Petersburg. My primary focus is on Python programming and I have experience with various libraries and frameworks. 
 
 Engaged in professional development of telegram bots of any complexity. 
 
