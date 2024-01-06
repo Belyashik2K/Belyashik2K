@@ -16,6 +16,9 @@ I am passionate about software development and enjoy creating efficient and scal
 <img src="https://pypi-camo.global.ssl.fastly.net/aac5c25bd38750c85c46e0c3911f956b99dff4ce/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f61696f2d6c6962732f61696f687474702f6d61737465722f646f63732f61696f687474702d706c61696e2e737667" title="aiohttp " alt="aiohttp" width="40" height="40"/>&nbsp;
 </div>
 
+## 🏆 Stats
+![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True)
+
 ## 🔗 Links
 <a href="https://t.me/belyashik2k" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram " alt="Telegram" width="40" height="40"/>
