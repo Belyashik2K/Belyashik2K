@@ -17,7 +17,7 @@ I am passionate about software development and enjoy creating efficient and scal
 </div>
 
 ## 🏆 Stats
-![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula)
+![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True)
 
 ## 🔗 Links
 <a href="https://t.me/belyashik2k" target="_blank">
