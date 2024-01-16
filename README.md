@@ -6,14 +6,13 @@ Engaged in professional development of telegram bots of any complexity.
 I am passionate about software development and enjoy creating efficient and scalable solutions using Python.
 ## ⚙ Languages and Tools
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://aiogram.dev/img/logo.c95d892f.png" title="aiogram" alt="aiogram" width="40" height="40"/>&nbsp;
-<img src="https://pypi-camo.global.ssl.fastly.net/aac5c25bd38750c85c46e0c3911f956b99dff4ce/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f61696f2d6c6962732f61696f687474702f6d61737465722f646f63732f61696f687474702d706c61696e2e737667" title="aiohttp " alt="aiohttp" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Selenium-008000?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Playwright-F08080?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Sqlite-6495ED?style=for-the-badge&logo=sqlite&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-aiohttp-00BFFF?style=for-the-badge&logo=aiohttp&logoColor=FFFFFF"/>
 </div>
 
 ## 🏆 Stats
@@ -21,5 +20,5 @@ I am passionate about software development and enjoy creating efficient and scal
 
 ## 🔗 Links
 <a href="https://t.me/belyashik2k" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram " alt="Telegram" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
 </a>
