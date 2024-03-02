@@ -18,6 +18,9 @@ I am passionate about software development and enjoy creating efficient and scal
 ## 🏆 Stats
 ![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+## 📊 Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belyashik2K\&layout=compact&theme=dracula&hide_border=True)
+
 ## 🔗 Links
 <a href="https://t.me/belyashik2k" target="_blank">
 <img src="https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
