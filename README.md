@@ -7,6 +7,7 @@ I am passionate about software development and enjoy creating efficient and scal
 ## ⚙ Languages and Tools
 <div>
 <img src="https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-fastapi-44944A?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Selenium-008000?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Playwright-F08080?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Sqlite-6495ED?style=for-the-badge&logo=sqlite&logoColor=FFFFFF"/>
