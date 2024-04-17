@@ -16,6 +16,9 @@ I am passionate about software development and enjoy creating efficient and scal
 <img src="https://img.shields.io/badge/-aiohttp-00BFFF?style=for-the-badge&logo=aiohttp&logoColor=FFFFFF"/>
 </div>
 
+## ✨ Rewards
+— An **awardee** of the [All-Russian open source projects competition 2023/2024](https://talent.kruzhok.org/opensource) with [NeuroAI](https://github.com/Belyashik2K/NeuroAI-v2)
+
 ## 🏆 Stats
 ![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
