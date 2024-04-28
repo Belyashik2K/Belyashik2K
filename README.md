@@ -18,6 +18,7 @@ I am passionate about software development and enjoy creating efficient and scal
 
 ## ✨ Rewards
 — An **awardee** of the [All-Russian open source projects competition 2023/2024](https://talent.kruzhok.org/opensource) with [NeuroAI](https://github.com/Belyashik2K/NeuroAI-v2)
+
 — The **second** place at the [Regional stage of the High-tech Championship of St. Petersburg and the Leningrad region](https://profi.copp78.ru/tech#comp) in the competence **Digital business opportunities**
 
 ## 🏆 Stats
