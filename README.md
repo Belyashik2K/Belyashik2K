@@ -19,7 +19,7 @@ I am passionate about software development and enjoy creating efficient and scal
 ## ✨ Rewards
 — An **awardee** of the **[All-Russian open source projects competition 2023/2024](https://foss.kruzhok.org/results_2024)** with **[NeuroAI](https://github.com/Belyashik2K/NeuroAI-v2)**
 
-— The **second** place at the **[Regional stage of the High-tech Championship of St. Petersburg and the Leningrad region 2024](https://profi.copp78.ru/tech)** in the competence **[Digital business opportunities](https://profi.copp78.ru/tech#comp)**
+— The **second** place at the **[Regional stage of the High-tech Championship of St. Petersburg 2024](https://profi.copp78.ru/tech)** in the competence **[Digital business opportunities](https://profi.copp78.ru/tech#comp)**
 
 ## 🏆 Stats
 ![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
