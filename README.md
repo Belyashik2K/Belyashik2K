@@ -2,7 +2,7 @@
 
 I am a 17-years old **Python** developer based in St. Petersburg. I study at **Peter the Great St. Petersburg Polytechnic University** on the **Computer security** direction. My main focus is on **Python** programming, and I have experience working with various libraries and frameworks. 
 
-In my spare time, I am engaged in **professional** **development** of telegram **bots** of any complexity, studying **full-stack** development. 
+In my spare time, I am engaged in **professional** **development** of telegram **bots** of any complexity, studying **cybersecurity** and **full-stack** development. 
 
 I am passionate about **cybersecrity**, **software** **development** and enjoy creating **efficient** and **scalable** **solutions** using **Python** and **other** programming **languages**.
 
