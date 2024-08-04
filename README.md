@@ -12,6 +12,7 @@ I am passionate about **cybersecrity**, **software** **development** and enjoy c
 <img src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-aiogram-65ADF1?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-fastapi-44944A?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Selenium-008000?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Playwright-F08080?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
@@ -19,6 +20,7 @@ I am passionate about **cybersecrity**, **software** **development** and enjoy c
 <img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-aiohttp-00BFFF?style=for-the-badge&logo=aiohttp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=FFFFFF"/>
 </div>
 
 ## ✨ Rewards
