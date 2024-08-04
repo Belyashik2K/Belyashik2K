@@ -1,9 +1,11 @@
 ## 🦊 About me
-I am a 17-years old Python developer based in Saint-Petersburg. My primary focus is on Python programming and I have experience with various libraries and frameworks. 
 
-Engaged in professional development of telegram bots of any complexity. 
+I am a 17-years old **Python** developer based in St. Petersburg. I study at **Peter the Great St. Petersburg Polytechnic University** on the **Computer security** direction. My main focus is on **Python** programming, and I have experience working with various libraries and frameworks. 
 
-I am passionate about software development and enjoy creating efficient and scalable solutions using Python.
+In my spare time, I am engaged in professional development of telegram bots of any complexity, studying full-stack development. 
+
+I am passionate about **cybersecrity**, **software** **development** and enjoy creating **efficient** and **scalable** **solutions** using **Python** and **other** programming **languages**.
+
 ## ⚙ Languages and Tools
 <div>
 <img src="https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
