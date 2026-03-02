@@ -21,9 +21,12 @@ I am passionate about **cybersecrity**, **software** **development** and enjoy c
 <img src="https://img.shields.io/badge/-Playwright-F08080?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Sqlite-6495ED?style=for-the-badge&logo=sqlite&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-redis-FF4438?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-aiohttp-00BFFF?style=for-the-badge&logo=aiohttp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=FFFFFF"/>
 </div>
 
 ## ✨ Rewards
