@@ -37,7 +37,7 @@ I am passionate about **cybersecrity**, **software** **development** and enjoy c
 ## 🏆 Stats
 ![Dmitrii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Dmitrii's Commit stats](https://nirzak-streak-stats.vercel.app/?user=Belyashik2K&theme=dracula&hide_border=true)
+![Dmitrii's Commit stats](https://nirzak-streak-stats.vercel.app/?user=Belyashik2K&theme=dracula&hide_border=true) ![](https://komarev.com/ghpvc/?username=belyashik2k&style=pixel)
 
 ## 📊 Most used languages
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Belyashik2K\&layout=compact&theme=dracula&hide_border=True)
