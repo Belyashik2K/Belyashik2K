@@ -35,12 +35,12 @@ I am passionate about **cybersecrity**, **software** **development** and enjoy c
 — The **second** place at the **[Regional stage of the High-tech Championship of St. Petersburg 2024](https://profi.copp78.ru/tech)** in the competence **[Digital business opportunities](https://profi.copp78.ru/tech#comp)**
 
 ## 🏆 Stats
-![Dmitrii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Dmitrii's GitHub stats](https://grs.belyashik2k.de/api?username=belyashik2K&show_icons=True&theme=dracula&hide_border=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Dmitrii's Commit stats](https://streak-stats.demolab.com?user=Belyashik2K&theme=dracula&hide_border=true) ![](https://komarev.com/ghpvc/?username=belyashik2k&style=pixel)
 
 ## 📊 Most used languages
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Belyashik2K\&layout=compact&theme=dracula&hide_border=True)
+![Top Langs](https://grs.belyashik2k.de/api/top-langs/?username=Belyashik2K&layout=compact&theme=dracula&hide_border=True)
 
 ## 🔗 Links
 <a href="https://t.me/belyashik2k" target="_blank">
