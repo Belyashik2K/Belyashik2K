@@ -1,8 +1,5 @@
 <a href="https://belyashik2k.ru/en"><img src="https://belyashik2k.ru/readme/hero.svg" width="100%" alt="Dmitrii (Belyashik2K): Python developer from Saint Petersburg — backend, Telegram bots and infrastructure; studying information security"></a>
-<a href="https://belyashik2k.ru/en"><img src="https://belyashik2k.ru/readme/link-site.svg" width="14.8%" alt="belyashik2k.ru"></a>
-<a href="https://t.me/belyashik2k"><img src="https://belyashik2k.ru/readme/link-telegram.svg" width="11.5%" alt="Telegram"></a>
-<a href="mailto:work@belyashik2k.ru"><img src="https://belyashik2k.ru/readme/link-email.svg" width="18%" alt="work@belyashik2k.ru"></a>
-<a href="https://belyashik2k.ru/"><img src="https://belyashik2k.ru/readme/link-ru.svg" width="6.5%" alt="Русская версия"></a>
+<a href="https://belyashik2k.ru/en"><img src="https://belyashik2k.ru/readme/link-site.svg" width="28.2%" alt="belyashik2k.ru"></a><a href="https://t.me/belyashik2k"><img src="https://belyashik2k.ru/readme/link-telegram.svg" width="24.2%" alt="Telegram"></a><a href="mailto:work@belyashik2k.ru"><img src="https://belyashik2k.ru/readme/link-email.svg" width="31.2%" alt="work@belyashik2k.ru"></a><a href="https://belyashik2k.ru/"><img src="https://belyashik2k.ru/readme/link-ru.svg" width="16.3%" alt="Русская версия"></a>
 <a href="https://belyashik2k.ru/en/projects"><img src="https://belyashik2k.ru/readme/projects.svg" width="100%" alt="Selected work"></a>
 <a href="https://belyashik2k.ru/en/projects/artfeed"><img src="https://belyashik2k.ru/readme/project-artfeed.svg" width="100%" alt="ArtFeed: a social network for writers and artists"></a>
 <a href="https://khronologika.belyashik2k.ru"><img src="https://belyashik2k.ru/readme/project-khronologika.svg" width="100%" alt="Khronologika: an online word puzzle"></a>
